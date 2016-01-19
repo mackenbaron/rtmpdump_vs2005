@@ -28,3 +28,8 @@ Release
 
 netstackdump
 netstackdump_read
+*.mov
+*.mkv
+*.avi
+*.mp4
+
