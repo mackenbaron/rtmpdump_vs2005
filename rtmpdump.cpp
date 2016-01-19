@@ -796,7 +796,7 @@ main(int argc, char **argv)
 
 	RTMP_debuglevel = RTMP_LOGALL;
 
-	pLogFile = fopen("log.txt", "w");
+	//pLogFile = fopen("log.txt", "w");
 	//RTMP_LogSetOutput(pLogFile);
 
 	// Check for --quiet option before printing any output
